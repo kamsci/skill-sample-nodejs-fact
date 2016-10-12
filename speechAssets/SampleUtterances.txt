@@ -1,14 +1,14 @@
-GetNewFactIntent a fact
-GetNewFactIntent a fun fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a fun fact
-GetNewFactIntent give me a fact
-GetNewFactIntent give me a fun fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a fun trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a fun trivia
-GetNewFactIntent give me some information
-GetNewFactIntent give me some fun information
-GetNewFactIntent tell me something
-GetNewFactIntent give me something
+GetAdviceIntent advice
+GetAdviceIntent good advice
+GetAdviceIntent tell me good advice
+GetAdviceIntent give me advice
+GetAdviceIntent give me a good advice
+GetAdviceIntent advise me
+GetAdviceIntent councel me
+GetAdviceIntent give me words of wisdom
+GetAdviceIntent guide me
+GetAdviceIntent give me knowledge
+GetAdviceIntent enlighten me
+GetAdviceIntent I could use some advice
+GetAdviceIntent I need guidance
+GetAdviceIntent tell me what to do
